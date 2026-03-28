@@ -1,1 +1,1 @@
-# .netCore5Angular12
+# springBootAngular
